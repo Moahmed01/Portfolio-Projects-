@@ -20,7 +20,7 @@ COVID-19 Vaccinations
 
 ## Task
 
-The goal of this project is to explore 2020-2022 COVID-19 Data by performing queries in SQL. I choose to look at insights for the United States since I am a US citizen. I also explored data globally and regionally.
+The goal of this project is to explore 2020-2023 COVID-19 Data by performing queries in SQL. I choose to look at insights for the Australia since I am a Australian citizen. I also explored data globally and regionally.
 
 
 ## Key Findings
@@ -32,5 +32,3 @@ The goal of this project is to explore 2020-2022 COVID-19 Data by performing que
  - As of right now, North America has the highest death count due to COVID-19
  - 10,703,463,448 people worldwide have been vaccinated with at least one vaccine, that's 0.13% of the global population.
  
-## Sources
-[Alex the Analyst](https://github.com/AlexTheAnalyst/PortfolioProjects)
