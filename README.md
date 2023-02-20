@@ -14,7 +14,7 @@ My passions lie in EDA, machine learning and visualizing data to tell a story.
 
 ## Skillset
 
-Versed in Excel, SQL, Tableau, Power BI and Python
+Versed in Excel, SQL, Tableau and Python
 
 Excel: filtering, sorting, cleaning, conditional formatting, XLOOKUP, VLOOKUP, formulas and functions, Pivot Tables, charts and dashboards
 
