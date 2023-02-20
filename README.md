@@ -28,4 +28,4 @@ Python: cleaning, data analysis, predictive modeling/machine learning, visualiza
 
 ## Socials
 
-Linkedin[(www.linkedin.com/in/moh-ahmed1)]
+[Linkedin](www.linkedin.com/in/moh-ahmed1)
