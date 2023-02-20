@@ -1,4 +1,4 @@
-# COVID-19 Data Exploration Project
+# COVID-19 Data Exploration Project 2020 - 2022
 
 This project explores COVID-19 data from January 2020 to November 2022. Basic to advanced SQL queries are executed to answer questions and look at trends over the course of COVID-19. After the data exploration is complete in SQL, the queries are used to create some data visualizations in Tableau. My data exploration in SQL can be viewed [here](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/COVID-19%20Data%20Exploration%20Project/COVID-19%20Data%20Exploration%20Project.sql) and my dashboard in Tableau [here](https://public.tableau.com/app/profile/diondra.stubbs/viz/COVID-19Project2022/Dashboard1). This project was built using 
 SQL Server Management Studio (SSMS).
