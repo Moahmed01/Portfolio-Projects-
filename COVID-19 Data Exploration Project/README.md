@@ -24,10 +24,10 @@ The goal of this project is to explore 2020-2023 COVID-19 Data by performing que
 
 
 ## Key Findings
- - As of 11/23/2022, there have been 98,503,462 COVID-19 cases in the US. The current US death percentage is about 1.095%, meaning there is about a 1.1% chance of dying if you contract COVID-19.
- - While the number of cases has increased in total, the death percentage has declined. One year ago, there was a ~1.6% chance of dying upon contraction in the US. Two years ago, ~2% chance of dying upon contraction.
+ - As of November 23 2022, there are 10571788 total cases and the death percentage is about 0.151%, meaning there is about a 0.2% chance of dying if you contract COVID-19 since Jan 2020.
+ - While the number of cases has increased in total, the death percentage has declined. One year ago, there was a ~0.97% chance of dying upon contraction in the US. Two years ago, ~3.25% chance of dying upon contraction.
  - The highest infection rate is among European countries. The country with the highest infection rate is Cyprus. Of course this is relative to their population.
- - The US has an infection rate of ~29%. In 2020, the US infection rate was ~3.7%. In 2021 it was ~14.2%. The infection rate now it almost 8 times as much as it was in 2020 and twice as much as it was in 2021.
+ - Ausstralia has an infection rate of ~40% as of November 23
  - Presently, there are 637,876,021 cases and 6,588,157 deaths worldwide due to COVID-19. The current global death percentage is 1.03282719260582%.
  - As of right now, North America has the highest death count due to COVID-19
  - 10,703,463,448 people worldwide have been vaccinated with at least one vaccine, that's 0.13% of the global population.
