@@ -20,7 +20,7 @@ COVID-19 Vaccinations
 
 ## Task
 
-The goal of this project is to explore 2020-2023 COVID-19 Data by performing queries in SQL. I choose to look at insights for the Australia since I am a Australian citizen. I also explored data globally and regionally.
+The goal of this project is to explore 2020-2022 COVID-19 Data by performing queries in SQL. I choose to look at insights for the Australia since I am a Australian citizen. I also explored data globally and regionally.
 
 
 ## Key Findings
