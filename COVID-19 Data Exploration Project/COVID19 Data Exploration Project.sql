@@ -1,6 +1,6 @@
 /*
 
-Mohamed Ahmed
+Mohammed Ahmed
 
 COVID-19 Data Exploration
 
@@ -31,7 +31,7 @@ Where continent is not null
 order by date,population
 
 /*
-										DATA EXPLORATION - COVID DEATHS DATA	
+								DATA EXPLORATION - COVID DEATHS DATA	
 */
 
 /* How many COVID-19 cases in the US? How many deaths? What is the percentage death rate? */
@@ -99,7 +99,7 @@ Group by Location, population
 -- The highest infection rate is among European countries. The country with the highest infection rate is Cyprus.
 -- The Australia has an infection rate of ~40%, we're 10th.
 
--------------------------------- LET'S BREAK THINGS DOWN BY CONTINENT ------------------------------------
+------------------------------------------------------ LET'S BREAK THINGS DOWN BY CONTINENT ------------------------------------------------------------------
 
 /* Which continent has the highest death count in 2022, 2021 and 2020? */
 --  This shows countries with the highest death count per population
@@ -148,7 +148,7 @@ order by date
 -- we starts to see ICU admissions around the same time (March 01, 2020)
 
 
------------------------------------- CONTINENT NUMBERS -----------------------------
+------------------------------------------------------------- CONTINENT NUMBERS ---------------------------------------------------------------------
 
 --Which continent has the highiest death count? 
 
@@ -160,7 +160,7 @@ order by TotalDeathCount desc
 
 -- As of right now, North America has the highest death count.
 
------------------------------------- GLOBAL NUMBERS --------------------------------
+--------------------------------------------------------------- GLOBAL NUMBERS -----------------------------------------------------------------------
 
 /* What is the global death percentage per day? */
 
@@ -185,7 +185,7 @@ order by 1, 2
 
 
 /* 
-								       DATA EXPLORATION - COVID VACCINATIONS DATA
+							       DATA EXPLORATION - COVID VACCINATIONS DATA
 */
 
 -- What percentage of people are vaccinated? 
@@ -280,23 +280,3 @@ GROUP BY Continent
 ORDER BY highest_vaccination_count DESC 
 
 -- Asia has the highest vaccination count
-
-
-
-
-
-
-
-
-
-
--- Creating View to store data for later visualizations
-
-Create View PercentPopulationVaccinated as
-Select dea.continent, dea.location, dea.date, dea.population, vac.new_vaccinations
-, SUM(CONVERT(int,vac.new_vaccinations)) OVER (Partition by dea.Location Order by dea.location, dea.Date) as RollingPeopleVaccinated
-From [Portfolio Project]..Covid_deaths$ dea
-Join [Portfolio Project]..Covid_vaccinations$ vac
-	On dea.location = vac.location
-	and dea.date = vac.date
-where dea.continent is not null 
