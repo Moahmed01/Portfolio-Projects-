@@ -21,3 +21,11 @@ Excel: filtering, sorting, cleaning, conditional formatting, XLOOKUP, VLOOKUP, f
 SQL: MySQL, Microsoft SQL Server (SSMS), aggregate functions, JOINS
 
 Python: cleaning, data analysis, predictive modeling/machine learning, visualizations, functions, loops, NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn
+
+
+
+
+
+## Socials
+
+Linkedin[(www.linkedin.com/in/moh-ahmed1)]
