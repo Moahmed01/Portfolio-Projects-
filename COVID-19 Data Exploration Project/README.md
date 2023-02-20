@@ -9,7 +9,7 @@ SQL Server Management Studio (SSMS).
 
 The dataset is from [Our World in Data](https://ourworldindata.org/covid-deaths). It has data from January 2020 to Febraury 2023. I manipulated the data in Excel to contain the columns I wanted to work with.
 
-### Dataset Features
+## Dataset Features
 
 COVID-19 Deaths
 ![image](https://user-images.githubusercontent.com/83089796/204070449-69db32a5-6768-4086-8e3a-55f9d41f20fd.png)
