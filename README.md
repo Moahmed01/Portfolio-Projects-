@@ -2,7 +2,7 @@
 This repository holds all of the code and queries from the Portfolio Projects I created. These projects demonstrate my skills in SQL and Python
 
 
-## About Me
+## 🧰 About Me
 
 I am Mohammed Ahmed, a Medical Laboratory Technician with a keen interest in data analysis. I hold a Biomedical Science degree and am certified as an IBM Data Science Professional. Presently, I am employed in the Biochemistry department at QML Pathology as a Medical Laboratory Technician. My ultimate goal is to transition into a data analyst role, and I am actively seeking new opportunities to expand my skillset in this area.
 
