@@ -34,7 +34,7 @@ order by date,population
 								DATA EXPLORATION - COVID DEATHS DATA	
 */
 
-/* How many COVID-19 cases in the US? How many deaths? What is the percentage death rate? */
+/* How many COVID-19 cases in the Australia? How many deaths? What is the percentage death rate? */
 -- This shows the likelihood of dying in the Australia if you contract COVID-19 in November 2022.
 
 
