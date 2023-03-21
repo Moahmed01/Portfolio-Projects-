@@ -1,4 +1,4 @@
-# Olympics Data Exploration Project
+# Olympics Data Exploration Project (in progress)
 This project explores Olympics data from 
 
 # The Data
