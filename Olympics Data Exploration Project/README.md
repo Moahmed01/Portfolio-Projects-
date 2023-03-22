@@ -1,8 +1,8 @@
 # Olympics Data Exploration Project (in progress)
-This project explores Olympics data from 
+This project explores historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. Python queries are executed to answer questions and look at trends over the course of 120 years of olympics games
 
 # The Data
-From kaggle
+The dataset is from [KAGGLE](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?resource=download). It has data from 1896 to Rio 2016.
 
 # Dataset Features
 | Attribute | Definition | Data Type |
