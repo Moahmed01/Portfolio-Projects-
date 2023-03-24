@@ -1,6 +1,8 @@
 # Olympics Data Exploration Project (in progress)
 This project explores historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. Python queries are executed to answer questions and look at trends over the course of 120 years of olympics games
 
+![Olympics Brisbane 2032](https://user-images.githubusercontent.com/113978006/227518581-cdb7df95-5d51-4b5e-965c-96fb64b9df90.jpg)
+
 # The Data
 The dataset is from [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?resource=download). It has data from 1896 to Rio 2016.
 
