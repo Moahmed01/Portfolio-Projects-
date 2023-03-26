@@ -24,7 +24,4 @@ The dataset is from [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-
 | Sport | Sport played | object |
 | Event | Specific event in the sport | object |
 | Medal | What medal the athlete received if any| object |
-| Sex_Male | 1 = Athlete is male, 0 = Athlete is female | int64 |
-| medalist | 1 = Athlete received a medal, 0 = Athlete received no medal | int64 |
-| BMI | Athletes Body Mass Index | float64 |
-| AgeBins | Athletes age binned by every 10 years | category |
+
