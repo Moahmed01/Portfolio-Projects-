@@ -1,4 +1,4 @@
-# Olympics Data Exploration Project (in progress)
+# Olympics Data Exploration Project 
 This project explores historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. Python queries are executed to answer questions and look at trends over the course of 120 years of olympics games. Python Libraries used are Numpy, Pandas, Matplotlib & Seaborn Libraries for Data Analysis & Data Visualization 
 
 ![Olympics Brisbane 2032](https://user-images.githubusercontent.com/113978006/227518581-cdb7df95-5d51-4b5e-965c-96fb64b9df90.jpg)
