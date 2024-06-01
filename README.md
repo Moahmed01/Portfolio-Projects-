@@ -4,13 +4,7 @@ This repository holds all of the code and queries from the Portfolio Projects I 
 
 ## 😄 About Me
 
-I am Mohammed Ahmed, a Medical Laboratory Technician with a keen interest in data analysis. I hold a Biomedical Science degree and am certified as an IBM Data Science Professional. My ultimate goal is to transition into a data analyst role, and I am actively seeking new opportunities to expand my skillset in this area.
-
-My passions lie in EDA, machine learning and visualizing data to tell a story.
-
-
-
-
+I am Mohammed Ahmed, a Medical Laboratory Technician with a keen interest in data analysis and Biomedical Engineering
 
 ## 🧰 Skillset
 
